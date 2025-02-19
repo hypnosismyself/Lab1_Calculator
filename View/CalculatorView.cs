@@ -133,13 +133,16 @@ namespace Lab1_Calculator
             string temp = MainInputTextBox.Text;
             bool HasMinus = Checker.IsFirstMinus(MainInputTextBox);
 
-            if (HasMinus)
+            if (checker.CanInputNumbers(MainInputTextBox, OperationHistoryLabel, Operation))
             {
-                MainInputTextBox.Text = temp.Remove(0, 1);
-            }
-            else
-            {
-                MainInputTextBox.Text = "-" + temp;
+                if (HasMinus)
+                {
+                    MainInputTextBox.Text = temp.Remove(0, 1);
+                }
+                else
+                {
+                    MainInputTextBox.Text = "-" + temp;
+                }
             }
         }
 

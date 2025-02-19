@@ -63,7 +63,7 @@
             this.OneInputButton.Location = new System.Drawing.Point(22, 121);
             this.OneInputButton.Name = "OneInputButton";
             this.OneInputButton.Size = new System.Drawing.Size(60, 40);
-            this.OneInputButton.TabIndex = 0;
+            this.OneInputButton.TabIndex = 1;
             this.OneInputButton.TabStop = false;
             this.OneInputButton.Text = "1";
             this.OneInputButton.UseVisualStyleBackColor = true;
@@ -95,7 +95,7 @@
             this.SixInputButton.Location = new System.Drawing.Point(154, 167);
             this.SixInputButton.Name = "SixInputButton";
             this.SixInputButton.Size = new System.Drawing.Size(60, 40);
-            this.SixInputButton.TabIndex = 2;
+            this.SixInputButton.TabIndex = 1;
             this.SixInputButton.TabStop = false;
             this.SixInputButton.Text = "6";
             this.SixInputButton.UseVisualStyleBackColor = true;
@@ -111,7 +111,7 @@
             this.FourInputButton.Location = new System.Drawing.Point(22, 167);
             this.FourInputButton.Name = "FourInputButton";
             this.FourInputButton.Size = new System.Drawing.Size(60, 40);
-            this.FourInputButton.TabIndex = 3;
+            this.FourInputButton.TabIndex = 1;
             this.FourInputButton.TabStop = false;
             this.FourInputButton.Text = "4";
             this.FourInputButton.UseVisualStyleBackColor = true;
@@ -127,7 +127,7 @@
             this.FiveInputButton.Location = new System.Drawing.Point(88, 167);
             this.FiveInputButton.Name = "FiveInputButton";
             this.FiveInputButton.Size = new System.Drawing.Size(60, 40);
-            this.FiveInputButton.TabIndex = 4;
+            this.FiveInputButton.TabIndex = 1;
             this.FiveInputButton.TabStop = false;
             this.FiveInputButton.Text = "5";
             this.FiveInputButton.UseVisualStyleBackColor = true;
@@ -143,7 +143,7 @@
             this.NineInputButton.Location = new System.Drawing.Point(154, 213);
             this.NineInputButton.Name = "NineInputButton";
             this.NineInputButton.Size = new System.Drawing.Size(60, 40);
-            this.NineInputButton.TabIndex = 5;
+            this.NineInputButton.TabIndex = 1;
             this.NineInputButton.TabStop = false;
             this.NineInputButton.Text = "9";
             this.NineInputButton.UseVisualStyleBackColor = true;
@@ -159,7 +159,7 @@
             this.ThreeInputButton.Location = new System.Drawing.Point(154, 121);
             this.ThreeInputButton.Name = "ThreeInputButton";
             this.ThreeInputButton.Size = new System.Drawing.Size(60, 40);
-            this.ThreeInputButton.TabIndex = 6;
+            this.ThreeInputButton.TabIndex = 1;
             this.ThreeInputButton.TabStop = false;
             this.ThreeInputButton.Text = "3";
             this.ThreeInputButton.UseVisualStyleBackColor = true;
@@ -175,7 +175,7 @@
             this.SevenInputButton.Location = new System.Drawing.Point(22, 213);
             this.SevenInputButton.Name = "SevenInputButton";
             this.SevenInputButton.Size = new System.Drawing.Size(60, 40);
-            this.SevenInputButton.TabIndex = 7;
+            this.SevenInputButton.TabIndex = 1;
             this.SevenInputButton.TabStop = false;
             this.SevenInputButton.Text = "7";
             this.SevenInputButton.UseVisualStyleBackColor = true;
@@ -191,7 +191,7 @@
             this.EightInputButton.Location = new System.Drawing.Point(88, 213);
             this.EightInputButton.Name = "EightInputButton";
             this.EightInputButton.Size = new System.Drawing.Size(60, 40);
-            this.EightInputButton.TabIndex = 8;
+            this.EightInputButton.TabIndex = 1;
             this.EightInputButton.TabStop = false;
             this.EightInputButton.Text = "8";
             this.EightInputButton.UseVisualStyleBackColor = true;
@@ -207,7 +207,7 @@
             this.ZeroInputButton.Location = new System.Drawing.Point(22, 259);
             this.ZeroInputButton.Name = "ZeroInputButton";
             this.ZeroInputButton.Size = new System.Drawing.Size(60, 40);
-            this.ZeroInputButton.TabIndex = 9;
+            this.ZeroInputButton.TabIndex = 1;
             this.ZeroInputButton.TabStop = false;
             this.ZeroInputButton.Text = "0";
             this.ZeroInputButton.UseVisualStyleBackColor = true;
@@ -223,7 +223,7 @@
             this.ClearAllInputButton.Location = new System.Drawing.Point(22, 75);
             this.ClearAllInputButton.Name = "ClearAllInputButton";
             this.ClearAllInputButton.Size = new System.Drawing.Size(60, 40);
-            this.ClearAllInputButton.TabIndex = 10;
+            this.ClearAllInputButton.TabIndex = 1;
             this.ClearAllInputButton.TabStop = false;
             this.ClearAllInputButton.Text = "C";
             this.ClearAllInputButton.UseVisualStyleBackColor = true;
@@ -239,7 +239,7 @@
             this.BackspaceInputButton.Location = new System.Drawing.Point(88, 75);
             this.BackspaceInputButton.Name = "BackspaceInputButton";
             this.BackspaceInputButton.Size = new System.Drawing.Size(60, 40);
-            this.BackspaceInputButton.TabIndex = 11;
+            this.BackspaceInputButton.TabIndex = 1;
             this.BackspaceInputButton.TabStop = false;
             this.BackspaceInputButton.Text = "<-";
             this.BackspaceInputButton.UseVisualStyleBackColor = true;
@@ -256,7 +256,7 @@
             this.AdditionInputButton.Location = new System.Drawing.Point(220, 75);
             this.AdditionInputButton.Name = "AdditionInputButton";
             this.AdditionInputButton.Size = new System.Drawing.Size(60, 40);
-            this.AdditionInputButton.TabIndex = 12;
+            this.AdditionInputButton.TabIndex = 1;
             this.AdditionInputButton.TabStop = false;
             this.AdditionInputButton.Text = "+";
             this.AdditionInputButton.UseVisualStyleBackColor = false;
@@ -273,7 +273,7 @@
             this.SubtractionInputButton.Location = new System.Drawing.Point(220, 121);
             this.SubtractionInputButton.Name = "SubtractionInputButton";
             this.SubtractionInputButton.Size = new System.Drawing.Size(60, 40);
-            this.SubtractionInputButton.TabIndex = 13;
+            this.SubtractionInputButton.TabIndex = 1;
             this.SubtractionInputButton.TabStop = false;
             this.SubtractionInputButton.Text = "-";
             this.SubtractionInputButton.UseVisualStyleBackColor = false;
@@ -290,7 +290,7 @@
             this.DivisionInputButton.Location = new System.Drawing.Point(220, 213);
             this.DivisionInputButton.Name = "DivisionInputButton";
             this.DivisionInputButton.Size = new System.Drawing.Size(60, 40);
-            this.DivisionInputButton.TabIndex = 14;
+            this.DivisionInputButton.TabIndex = 1;
             this.DivisionInputButton.TabStop = false;
             this.DivisionInputButton.Text = "/";
             this.DivisionInputButton.UseVisualStyleBackColor = false;
@@ -307,7 +307,7 @@
             this.MultiplicationInputButton.Location = new System.Drawing.Point(220, 167);
             this.MultiplicationInputButton.Name = "MultiplicationInputButton";
             this.MultiplicationInputButton.Size = new System.Drawing.Size(60, 40);
-            this.MultiplicationInputButton.TabIndex = 15;
+            this.MultiplicationInputButton.TabIndex = 1;
             this.MultiplicationInputButton.TabStop = false;
             this.MultiplicationInputButton.Text = "*";
             this.MultiplicationInputButton.UseVisualStyleBackColor = false;
@@ -323,7 +323,7 @@
             this.CommaInputButton.Location = new System.Drawing.Point(88, 259);
             this.CommaInputButton.Name = "CommaInputButton";
             this.CommaInputButton.Size = new System.Drawing.Size(60, 40);
-            this.CommaInputButton.TabIndex = 16;
+            this.CommaInputButton.TabIndex = 1;
             this.CommaInputButton.TabStop = false;
             this.CommaInputButton.Text = ",";
             this.CommaInputButton.UseVisualStyleBackColor = true;
@@ -339,7 +339,7 @@
             this.EqualityInputButton.Location = new System.Drawing.Point(154, 259);
             this.EqualityInputButton.Name = "EqualityInputButton";
             this.EqualityInputButton.Size = new System.Drawing.Size(126, 40);
-            this.EqualityInputButton.TabIndex = 17;
+            this.EqualityInputButton.TabIndex = 1;
             this.EqualityInputButton.TabStop = false;
             this.EqualityInputButton.Text = "=";
             this.EqualityInputButton.UseVisualStyleBackColor = true;
@@ -355,7 +355,7 @@
             this.PlusMinusInputButton.Location = new System.Drawing.Point(154, 75);
             this.PlusMinusInputButton.Name = "PlusMinusInputButton";
             this.PlusMinusInputButton.Size = new System.Drawing.Size(60, 40);
-            this.PlusMinusInputButton.TabIndex = 18;
+            this.PlusMinusInputButton.TabIndex = 1;
             this.PlusMinusInputButton.TabStop = false;
             this.PlusMinusInputButton.Text = "+/-";
             this.PlusMinusInputButton.UseVisualStyleBackColor = true;

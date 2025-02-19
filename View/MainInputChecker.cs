@@ -81,7 +81,8 @@ namespace Lab1_Calculator.View
         {
             return t.Text.Contains(",");
         }
-
+        
+        // проверка минуса
         public bool IsFirstMinus(TextBox t)
         {
             return t.Text.Contains("-");
